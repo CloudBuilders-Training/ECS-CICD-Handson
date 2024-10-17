@@ -176,7 +176,8 @@
                 "iam:DeleteRolePolicy",
                 "iam:AttachRolePolicy",
                 "iam:DetachRolePolicy",
-                "iam:PassRole"
+                "iam:PassRole",
+                "iam:CreateServiceLinkedRole"
             ],
             "Resource": "*"
         },
